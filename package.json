@@ -1,21 +1,25 @@
 {
-  "name": "homework-18-social-api",
+  "name": "social-media-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "18. NoSQL Challenge",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon server.js"
-  
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielolvera21/social-media-api.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "express": "^4.17.3",
-    "mongoose": "^6.2.3"
+  "bugs": {
+    "url": "https://github.com/danielolvera21/social-media-api/issues"
   },
-  "devDependencies": {
-    "nodemon": "^2.0.15"
+  "homepage": "https://github.com/danielolvera21/social-media-api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.5"
   }
 }
