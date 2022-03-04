@@ -1,4 +1,4 @@
-# Social Media API
+ Social Media API
 
 Social media API stores user data such as names, reactions, and thoughts.
 
@@ -24,12 +24,25 @@ other commands put, post, and delete users
 friends can be added to or deleted to and from users and reactions can be added to and from thoughts
 
 # Video Links
-link to starting of the app in the terminal https://drive.google.com/file/d/1HNJ_z_uwI-k578vMUS8fCcfZg1eaP1B2/view 
+link to starting of the app in the terminal
+ https://drive.google.com/file/d/1HNJ_z_uwI-k578vMUS8fCcfZg1eaP1B2/view 
 
 Getting, posting, and deleting users
+
 https://drive.google.com/file/d/1sphvG_2HLK-7DmoJcK1Y3S71KAHE65gN/view
 
 getting, posting, and deleting thoughts.
+
+https://drive.google.com/file/d/1fGyn-qrFh5z4acNSAmQMJ0CzsRX3TPmw/view
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+```
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
